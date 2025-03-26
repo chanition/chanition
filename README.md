@@ -20,7 +20,34 @@
 
 <!-- 사용하는 언어나 ,,,
 -->
+<!--
 <div align="center">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge" />
 </div>
+-->
+
+
+
+<!--🛠 기술 스택 뱃지 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- 📊 GitHub Stats 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanition&show_icons=true&rank_icon=github&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanition&layout=compact&theme=omni" />
+</div>
+
+<!-- 🏆 Solved.ac 알고리즘 뱃지 
+<div align="center">
+  <a href="https://solved.ac/ellie7070">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ellie7070" alt="solved.ac 프로필" />
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=ellie7070&theme=warm" alt="백준 잔디 그래프" />
+</div>
+-->
