@@ -12,4 +12,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ellie7070})](https://solved.ac/{handle})
 -->
+<!-- 백준 잔디밭
 <img src="http://mazandi.herokuapp.com/api?handle={ellie7070}&theme=dark"/>
+-->
+<img src= "https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=html5&logoColor=white"/>
