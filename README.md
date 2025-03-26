@@ -9,10 +9,16 @@
 </div>
 -->
 <!-- 백준 티어 보여주는거
+-->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ellie7070})](https://solved.ac/{handle})
--->
+
 <!-- 백준 잔디밭
+-->
 <img src="http://mazandi.herokuapp.com/api?handle={ellie7070}&theme=dark"/>
+
+<!-- 사용하는 언어나 ,,,
 -->
 <img src= "https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
