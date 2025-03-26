@@ -8,3 +8,5 @@
   <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanition&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,bcbcbc,dfdfdf,dfdfdf,bcbcbc&theme=graywhite"/></a>
 </div>
 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ellie7070})](https://solved.ac/{handle})
