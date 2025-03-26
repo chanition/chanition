@@ -12,4 +12,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ellie7070})](https://solved.ac/{handle})
 -->
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={ellie7070}&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle={ellie7070}&theme=cold"/>
