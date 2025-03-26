@@ -19,6 +19,6 @@
 
 <!-- 사용하는 언어나 ,,,
 -->
-<img src="https://img.shields.io/badge/python-#3776AB.svg?&style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
