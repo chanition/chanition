@@ -31,7 +31,11 @@
 
 <!--🛠 기술 스택 뱃지 -->
 <div align="center">
-  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&pause=1000&color=E38BAE&width=90&height=30&lines=Studying.." alt="Typing SVG" /></a>
+  </a>
+</div>
+
+<div align="center">
   <br>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge" />
