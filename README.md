@@ -29,10 +29,18 @@
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  
 </div>
 
 <br>
+<!--
+<div align="center">
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanition)](https://github.com/깃허브아이디/github-readme-stats)
+  -->
+
 
 <!--
 
